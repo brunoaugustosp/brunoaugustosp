@@ -1,10 +1,14 @@
 # Bruno Augusto
 ### Hello, I am Bruno, welcome to my github
+</br>
 
+Morador da Baixada Santista, sou formado em Gestão Empresarial e Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e linguagem de programação, entre elas especificamente Python e JavaScript, tenho um amplo conhecimento em desenvolvimento web utilizando frameworks Flask, Bootstrap entre outras ferramentas, Possuo conhecimento em metodologias ágeis como SCRUM e KANBAN, tenho curiosidade em aprender novas tecnologias, facilidade para trabalhar em grupo e conhecimento no ramo logístico e portuário.
+Fui responsável por desenvolver um micro serviço, multiplataforma onde era feito toda a gestão e acompanhamento para montagem de fextank, todos os passos do processo eram feitos através de relatórios fotográficos registrados pelo usuário utilizando sua versão mobile. O sistema foi desenvolvido em Flask e para sua versão mobile foi utilizado a ferramenta Apache Cordova, além de registrar todas as etapas do processo o sistema também conta com um controle de estoque interativo.
+</br></br>
 
 
 <div align="center">
-Technologies
+Conhecimento nas tecnologias
 
 HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
 
@@ -22,9 +26,9 @@ HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
 </div>
 <br>
 <div align="center">
-Tools
+Vivência nas ferramentas
 
-VScode / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
+VScode / Git / GitHun / Gitlab 
 
 </div>
 <div align="center">
@@ -32,8 +36,6 @@ VScode / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
 <img  width="70px" height="40px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" />&nbsp;&nbsp;&nbsp;
 <img  width="40px" height="40px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />&nbsp;&nbsp;&nbsp;
 <img  width="40px" height="40px" src="https://media.giphy.com/media/hqrdSW7r1DFsDZwSnR/source.gif" />&nbsp;&nbsp;&nbsp;
-<img  width="40px" height="40px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/source.gif"/>&nbsp;
-
 
 </div>
 <br>
@@ -43,24 +45,24 @@ VScode / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
 
 
 <div align="center">
+Contato
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/joão-pedro-alves-910858163/) [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:jotalmeida007@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/bruno-augusto-0339baa3/) [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brunoaugustosp@outlook.com.br)](mailto:brunoaugustosp@outlook.com.br)
 
 </div>
 
-<img  width="400px" height="400px" src="https://media.giphy.com/media/H7NY2KgHRyRxQ1wZu0/source.gif" />
+
+<div align="center">
+
+<img  width="49%" src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/source.gif" />
+<img  width="49%" src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/source.gif" />
+
+</div>
 
 
 
-<img width="434px" src="https://github-readme-stats.vercel.app/api?username=brunoaugustosp&hide=contribs,prs" />
 
-<!-- <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaugustosp&langs_count=8)](https://github.com/brunoaugustosp/github-readme-statsl" /> -->
 
-<!-- - I’m currently learning React.Js and React Native, Angular, HTML, CSS, TypeScript, MongoDb and Ux and Ui.
-- I’m looking to collaborate on Web Design and UX.
-- I’m looking for help with React
-- Ask me about Interface Design
-- How to reach me: LinkedIn and email
-- Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
- -->
+
+
