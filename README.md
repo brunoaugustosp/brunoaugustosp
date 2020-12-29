@@ -1,11 +1,16 @@
 # Bruno Augusto
-### Hello, I am João, welcome to my github
+### Hello, I am Bruno, welcome to my github
 
-I am passionate about technologies and games, I like to see the beauty in the codes and understand how they work
 
-    Technologies
+<div align="center">
 
-    HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
+Technologies
+
+HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql
+
+</div>
+
+
 
 
 <div align="center">
@@ -36,9 +41,3 @@ I am passionate about technologies and games, I like to see the beauty in the co
 - How to reach me: LinkedIn and email
 - Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
 
-    <div align="center">
-     <img width="434px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
-
-    <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
-
-  </div>
