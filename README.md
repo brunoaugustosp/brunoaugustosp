@@ -53,12 +53,7 @@ Contato
 </div>
 
 
-<div align="center">
 
-<img  width="49%" src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/source.gif" />
-<img  width="49%" src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/source.gif" />
-
-</div>
 
 
 
