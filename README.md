@@ -1,4 +1,4 @@
-# Bruno Augusto
+
 ### Hello, I am Bruno, welcome to my github
 </br>
 
